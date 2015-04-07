@@ -5,12 +5,12 @@
         {
             "name" : "MapSet",
             "location" : "./tools/MyTool.js",
-            "label": "Default Map Set"
+            "label": "Luc's Map Set"
         },
         {
             "name" : "MyOtherTool",
             "location" : "./tools/MyOtherTool.js",
-            "label" : "My Other Tool"
+            "label" : "Luc's Other Tool"
         }
     ],
 
@@ -18,16 +18,15 @@
         {
             "name" : "MyBehavior",
             "location" : "./behaviors/MyBehavior.js",
-            "label" : "My Behavior"
+            "label" : "Luc's Behavior"
         }
     ],
 
     "pictureMarkerSets": [
         {
             "label": "My Picture Marker Set",  
-	           "description" : "My Picture Marker Set",
+	           "description" : "Luc's Picture Marker Set",
             "location": "./symbols/MyPictureMarkerSet.json.txt"
         }
     ]
 }
-
