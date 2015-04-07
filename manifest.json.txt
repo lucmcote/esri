@@ -1,0 +1,33 @@
+{
+    "name" : "",
+    "description" : "",
+    "tools" : [
+        {
+            "name" : "MapSet",
+            "location" : "./tools/MyTool.js",
+            "label": "Default Map Set"
+        },
+        {
+            "name" : "MyOtherTool",
+            "location" : "./tools/MyOtherTool.js",
+            "label" : "My Other Tool"
+        }
+    ],
+
+    "behaviors" : [
+        {
+            "name" : "MyBehavior",
+            "location" : "./behaviors/MyBehavior.js",
+            "label" : "My Behavior"
+        }
+    ],
+
+    "pictureMarkerSets": [
+        {
+            "label": "My Picture Marker Set",  
+	           "description" : "My Picture Marker Set",
+            "location": "./symbols/MyPictureMarkerSet.json.txt"
+        }
+    ]
+}
+
